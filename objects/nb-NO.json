@@ -209,337 +209,337 @@
     },
     "rct2tt.ride.funhouse": {
         "reference-name": "Fun House",
-        "name": "Fun House",
+        "name": "Morohus",
         "reference-description": "Building containing moving walls and floors to disorientate people walking through it",
-        "description": "Building containing moving walls and floors to disorientate people walking through it",
+        "description": "Bygning med bevegende vegger og gulv for å desorientere folk som vandrer gjennom det",
         "reference-capacity": "5 guests",
-        "capacity": "5 guests"
+        "capacity": "5 gjester"
     },
     "rct2tt.ride.neptunex": {
         "reference-name": "Neptune Ride",
-        "name": "Neptune Ride",
+        "name": "Neptun Attraksjon",
         "reference-description": "Riders ride in pairs, in themed seats rotating around an animated statue of Neptune",
-        "description": "Riders ride in pairs, in themed seats rotating around an animated statue of Neptune",
+        "description": "Passasjerer sitter i par, i tematiserte seter som roterer rundt en animert statue av Neptun",
         "reference-capacity": "18 passengers",
-        "capacity": "18 passengers"
+        "capacity": "18 passasjerer"
     },
     "rct2tt.ride.battrram": {
         "reference-name": "Battering Ram Trains",
-        "name": "Battering Ram Trains",
+        "name": "Rambukk Tog",
         "reference-description": "Compact roller coaster trains with cars with in-line seating, themed to look like battering rams from the Dark Age",
-        "description": "Compact roller coaster trains with cars with in-line seating, themed to look like battering rams from the Dark Age",
+        "description": "Kompakt berg-og-dal-banetog med vogner med seter på linje, tematisert til å se ut som rambukker fra Middelalderen",
         "reference-capacity": "6 passengers per car",
-        "capacity": "6 passengers per car"
+        "capacity": "6 passasjerer per vogn"
     },
     "rct2tt.ride.schoolbs": {
         "reference-name": "School Bus Trams",
-        "name": "School Bus Trams",
+        "name": "Skolebuss-trikker",
         "reference-description": "Miniature trams themed to look like North American school buses",
-        "description": "Miniature trams themed to look like North American school buses",
+        "description": "Miniatyr-trikker tematisert til å se ut som Nord-Amerikanske skolebusser",
         "reference-capacity": "10 passengers per car",
-        "capacity": "10 passengers per car"
+        "capacity": "10 passasjerer per vogn"
     },
     "rct2tt.ride.cavmncar": {
         "reference-name": "Caveman Cars",
-        "name": "Caveman Cars",
+        "name": "Huleboer-vogner",
         "reference-description": "Self-drive go-karts in Stone Age style",
-        "description": "Self-drive go-karts in Stone Age style",
+        "description": "Selvstyrte gokarter i Steinalder-stil",
         "reference-capacity": "Single-seater",
-        "capacity": "Single-seater"
+        "capacity": "Enkeltseter"
     },
     "rct2tt.ride.1920sand": {
         "reference-name": "Art Deco Food Stall",
-        "name": "Art Deco Food Stall",
+        "name": "Art Deco Matbod",
         "reference-description": "A stall selling noodles and fresh Lemonade",
-        "description": "A stall selling noodles and fresh Lemonade"
+        "description": "En bod som selger nudler og fersk Lemonade"
     },
     "rct2tt.ride.seaplane": {
         "reference-name": "Suspended Seaplane Cars",
-        "name": "Suspended Seaplane Cars",
+        "name": "Hengende Sjøfly-vogner",
         "reference-description": "Suspended roller coaster trains consisting of seaplane-shaped cars able to swing freely as the train goes around corners",
-        "description": "Suspended roller coaster trains consisting of seaplane-shaped cars able to swing freely as the train goes around corners",
+        "description": "Hengende berg-og-dal-banetog bestående av sjøfly-formede vogner i stand til å svinge fritt mens toget kjører rundt svinger",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2tt.ride.hovercar": {
         "reference-name": "Hover Cars",
-        "name": "Hover Cars",
+        "name": "Svevende Biler",
         "reference-description": "Maglev technology has been implemented to create the illusion of futuristic hover cars",
-        "description": "Maglev technology has been implemented to create the illusion of futuristic hover cars",
+        "description": "Maglev teknologi har blitt implementert for å skape illusjonen av futuristiske svevende biler",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 passasjerer per bil"
     },
     "rct2tt.ride.dinoeggs": {
         "reference-name": "Dinosaur Egg Ride",
-        "name": "Dinosaur Egg Ride",
+        "name": "Dinosaur Egg Attraksjon",
         "reference-description": "Riders ride in pairs, in themed seats rotating around an animated mother dinosaur",
-        "description": "Riders ride in pairs, in themed seats rotating around an animated mother dinosaur",
+        "description": "Passasjerer kjører i par, i tematiserte seter roterende rundt en animert dinosaur-mor",
         "reference-capacity": "18 passengers",
-        "capacity": "18 passengers"
+        "capacity": "18 passasjerer"
     },
     "rct2tt.ride.cerberus": {
         "reference-name": "Cerberus Trains",
-        "name": "Cerberus Trains",
+        "name": "Kerberos-tog",
         "reference-description": "Spacious trains with simple lap restraints with cars shaped like the multi-headed dog from the Underworld",
-        "description": "Spacious trains with simple lap restraints with cars shaped like the multi-headed dog from the Underworld",
+        "description": "Romslige tog med enkle sikringer over fanget med vogner formet som den flerhodete hunden fra Underverdenen",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2tt.ride.cyclopsx": {
         "reference-name": "Cyclops Dodgems",
-        "name": "Cyclops Dodgems",
+        "name": "Kyklop Radiobiler",
         "reference-description": "Riders drive the Eye of a Giant Cyclops",
-        "description": "Riders drive the Eye of a Giant Cyclops",
+        "description": "Ryttere kjører øyet til en Kyklop-Kjempe",
         "reference-capacity": "1 person per car",
-        "capacity": "1 person per car"
+        "capacity": "1 person per bil"
     },
     "rct2tt.ride.hoverbke": {
         "reference-name": "Hover Bikes",
-        "name": "Hover Bikes",
+        "name": "Svevende Motorsykler",
         "reference-description": "Futuristic bike-shaped single vehicles",
-        "description": "Futuristic bike-shaped single vehicles",
+        "description": "Futuristiske motorsykkelformede kjøretøyer",
         "reference-capacity": "2 riders per vehicle",
-        "capacity": "2 riders per vehicle"
+        "capacity": "2 ryttere per kjøretøy"
     },
     "rct2tt.ride.hotrodxx": {
         "reference-name": "Hot Rod Trains",
-        "name": "Hot Rod Trains",
+        "name": "Hot Rod Tog",
         "reference-description": "Air-powered launched roller coaster trains in the shape of hot rod cars",
-        "description": "Air-powered launched roller coaster trains in the shape of hot rod cars",
+        "description": "Luftdrevet berg-og-dal-banetog formet som hot rod biler",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 passasjerer per vogn"
     },
     "rct2tt.ride.hovrbord": {
         "reference-name": "Hoverboards",
-        "name": "Hoverboards",
+        "name": "Svevebrett",
         "reference-description": "Guests ride on a futuristic hoverboard, swinging freely from side to side around corners",
-        "description": "Guests ride on a futuristic hoverboard, swinging freely from side to side around corners",
+        "description": "Gjester står på futuristiske svevebrett som svinger fritt fra side til side rundt svinger",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 passasjerer per vogn"
     },
     "rct2tt.ride.mktstal2": {
         "reference-name": "Lemonade Market Stall",
-        "name": "Lemonade Market Stall",
+        "name": "Lemonade Markedsbod",
         "reference-description": "A themed stall selling old style, fresh lemonade.",
-        "description": "A themed stall selling old style, fresh lemonade."
+        "description": "En tematisert bod som selger gammeldags, fersk lemonade."
     },
     "rct2tt.ride.trilobte": {
         "reference-name": "Trilobite Boats",
-        "name": "Trilobite Boats",
+        "name": "Trilobitt-båter",
         "reference-description": "Trilobite-shaped roller coaster cars",
-        "description": "Trilobite-shaped roller coaster cars",
+        "description": "Trilobitt-formede berg-og-dal-banevogner",
         "reference-capacity": "6 passengers per boat",
-        "capacity": "6 passengers per boat"
+        "capacity": "6 passasjerer per båt"
     },
     "rct2tt.ride.tricatop": {
         "reference-name": "Triceratops Dodgems",
-        "name": "Triceratops Dodgems",
+        "name": "Triceratops Radiobiler",
         "reference-description": "Riders lock horns with each other in triceratops dodgems",
-        "description": "Riders lock horns with each other in triceratops dodgems",
+        "description": "Ryttere konkurrerer med hverandre i triceratops radiobiler",
         "reference-capacity": "1 person per car",
-        "capacity": "1 person per car"
+        "capacity": "1 person per bil"
     },
     "rct2tt.ride.moonjuce": {
         "reference-name": "Moon Juice",
-        "name": "Moon Juice",
+        "name": "Månejuice",
         "reference-description": "A stall selling the latest soft drinks",
-        "description": "A stall selling the latest soft drinks"
+        "description": "En bod som solger den nyeste brusen"
     },
     "rct2tt.ride.mgr2": {
         "reference-name": "Double Deck Carousel",
-        "name": "Double Deck Carousel",
+        "name": "Toetasjes Karusell",
         "reference-description": "Traditional enclosed double-deck carousel with carved wooden horses",
-        "description": "Traditional enclosed double-deck carousel with carved wooden horses",
+        "description": "Tradisjonell toetasjes karusell med utskårne trehester",
         "reference-capacity": "32 passengers",
-        "capacity": "32 passengers"
+        "capacity": "32 passasjerer"
     },
     "rct2tt.ride.flalmace": {
         "reference-name": "Mace Ride",
-        "name": "Mace Ride",
+        "name": "Stridsklubbe Attraksjon",
         "reference-description": "Riders sit on a themed chair which is attached to a motor driven spinning arm.",
-        "description": "Riders sit on a themed chair which is attached to a motor driven spinning arm.",
+        "description": "Gjester sitter på en tematisert stol som er knyttet til en motordrevet roterende arm.",
         "reference-capacity": "1 guest per chair",
-        "capacity": "1 guest per chair"
+        "capacity": "1 gjest per stol"
     },
     "rct2tt.ride.flwrpowr": {
         "reference-name": "Flower Power Dodgems",
-        "name": "Flower Power Dodgems",
+        "name": "Flower Power Radiobiler",
         "reference-description": "Riders ride in flower-shaped hovercraft vehicles that they freely control",
-        "description": "Riders ride in flower-shaped hovercraft vehicles that they freely control",
+        "description": "Gjester styrer blomsterformede luftputefartøy som de kontrollerer fritt",
         "reference-capacity": "1 passenger per car",
-        "capacity": "1 passenger per car"
+        "capacity": "1 passasjer per bil"
     },
     "rct2tt.ride.medisoup": {
         "reference-name": "Witches Brew Soup",
-        "name": "Witches Brew Soup",
+        "name": "Heksebrygg Suppe",
         "reference-description": "A stall selling a thick broth-style soup",
-        "description": "A stall selling a thick broth-style soup"
+        "description": "En bod som selger en tykk buljongsuppe"
     },
     "rct2tt.ride.spokprsn": {
         "reference-name": "Haunted Jail House",
-        "name": "Haunted Jail House",
+        "name": "Hjemsøkt Fengselshus",
         "reference-description": "Building containing dungeons and mannequins of incarcerated figures, to scare people walking through it",
-        "description": "Building containing dungeons and mannequins of incarcerated figures, to scare people walking through it",
+        "description": "Bygning som inneholder fangehull og dukker av fengslede figurer, for å skremme folk som vandrer gjennom det",
         "reference-capacity": "16 guests",
-        "capacity": "16 guests"
+        "capacity": "16 gjester"
     },
     "rct2tt.ride.gintspdr": {
         "reference-name": "B-Movie Giant Spider Ride",
-        "name": "B-Movie Giant Spider Ride",
+        "name": "B-Film Kjempe-edderkopp Attraksjon",
         "reference-description": "Riders ride in pairs of themed seats which rotate around a giant B-Movie spider",
-        "description": "Riders ride in pairs of themed seats which rotate around a giant B-Movie spider",
+        "description": "Gjester sitter i par i tematiserte seter som roterer rundt en gigantisk B-Film edderkopp",
         "reference-capacity": "18 passengers",
-        "capacity": "18 passengers"
+        "capacity": "18 passasjerer"
     },
     "rct2tt.ride.blckdeth": {
         "reference-name": "Black Death Trains",
-        "name": "Black Death Trains",
+        "name": "Svartedøden Tog",
         "reference-description": "Rat-shaped trains consisting of 2-seater cars where the riders are behind each other",
-        "description": "Rat-shaped trains consisting of 2-seater cars where the riders are behind each other",
+        "description": "Rotteformede tog bestående av 2-seters vogner hvor passasjerene er bak hverandre",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 passasjerer per vogn"
     },
     "rct2tt.ride.polchase": {
         "reference-name": "Police Car Trains",
-        "name": "Police Car Trains",
+        "name": "Politibil Tog",
         "reference-description": "Roller coaster trains with lap bars capable of travelling through vertical loops, themed to look like police cars",
-        "description": "Roller coaster trains with lap bars capable of travelling through vertical loops, themed to look like police cars",
+        "description": "Berg-og-dal-banetog med sikringer over fanget i stand til å bevege seg gjennom vertikale looper, tematisert til å se ut som politibiler",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2tt.ride.telepter": {
         "reference-name": "Teleporter Cabin",
-        "name": "Teleporter Cabin",
+        "name": "Teleporter Kabin",
         "reference-description": "Futuristic lift cabin that gives guests the illusion of teleportation",
-        "description": "Futuristic lift cabin that gives guests the illusion of teleportation",
+        "description": "Futuristisk heiskabin som gir gjester en illusjon av teleportering",
         "reference-capacity": "16 passengers",
-        "capacity": "16 passengers"
+        "capacity": "16 passasjerer"
     },
     "rct2tt.ride.policecr": {
         "reference-name": "Police Cars",
-        "name": "Police Cars",
+        "name": "Politibiler",
         "reference-description": "1920s-themed police cars run on wooden tracks, turning around on special reversing sections",
-        "description": "1920s-themed police cars run on wooden tracks, turning around on special reversing sections",
+        "description": "Politibiler fra 1920-tallet som kjører på trespor og snur seg rundt på reverserende seksjoner",
         "reference-capacity": "6 passengers per car",
-        "capacity": "6 passengers per car"
+        "capacity": "6 passasjerer per bil"
     },
     "rct2tt.ride.ganstrcr": {
         "reference-name": "Gangster Cars",
-        "name": "Gangster Cars",
+        "name": "Gangsterbiler",
         "reference-description": "1920s-themed gangster cars are accelerated out of the station by linear induction motors to speed through twisting inversions",
-        "description": "1920s-themed gangster cars are accelerated out of the station by linear induction motors to speed through twisting inversions",
+        "description": "Gangsterbiler fra 1920-tallet blir sendt ut fra stasjonen av lineære induksjonsmotorer for å fare gjennom vridende inversjoner",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per bil"
     },
     "rct2tt.ride.flygboat": {
         "reference-name": "Flying Boats",
-        "name": "Flying Boats",
+        "name": "Flyvende Båter",
         "reference-description": "Roller coaster cars shaped like flying boats",
-        "description": "Roller coaster cars shaped like flying boats",
+        "description": "Berg-og-dal-banevogner formet som flyvende båter",
         "reference-capacity": "6 passengers per boat",
-        "capacity": "6 passengers per boat"
+        "capacity": "6 passasjerer per båt"
     },
     "rct2tt.ride.timemach": {
         "reference-name": "Time Machine",
-        "name": "Time Machine",
+        "name": "Tidsmaskin",
         "reference-description": "Guests sit in a specially designed sphere, and experience the illusion of time travel",
-        "description": "Guests sit in a specially designed sphere, and experience the illusion of time travel",
+        "description": "Gjester sitter i en spesielt designet sfære og opplever illusjonen av tidsreise",
         "reference-capacity": "1 guest per time machine",
-        "capacity": "1 guest per time machine"
+        "capacity": "1 gjest per tidsmaskin"
     },
     "rct2tt.ride.jousting": {
         "reference-name": "Jousting Knights",
-        "name": "Jousting Knights",
+        "name": "Riddere med Lanse",
         "reference-description": "Separate horse-shaped vehicles with a jousting knight on the front",
-        "description": "Separate horse-shaped vehicles with a jousting knight on the front",
+        "description": "Separate hesteformede kjøretøy med en ridder som bærer en lanse foran",
         "reference-capacity": "2 riders per vehicle",
-        "capacity": "2 riders per vehicle"
+        "capacity": "2 ryttere per kjøretøy"
     },
     "rct2tt.ride.mythosea": {
         "reference-name": "Neptune’s Seafood Stall",
-        "name": "Neptune’s Seafood Stall",
+        "name": "Neptun’s Sjømat-bod",
         "reference-description": "A stall selling Neptune’s salty treats",
-        "description": "A stall selling Neptune’s salty treats"
+        "description": "En bod som selger Neptun's salte godbiter"
     },
     "rct2tt.ride.halofmrs": {
         "reference-name": "Hall of Mirrors",
-        "name": "Hall of Mirrors",
+        "name": "Speilsal",
         "reference-description": "Building containing warped mirrors which distort the reflection of the viewer",
-        "description": "Building containing warped mirrors which distort the reflection of the viewer",
+        "description": "Bygning med bøyde speil som forvrenger speilbildet til gjester",
         "reference-capacity": "5 guests",
-        "capacity": "5 guests"
+        "capacity": "5 gjester"
     },
     "rct2tt.ride.dragnfly": {
         "reference-name": "Dragonfly Cars",
-        "name": "Dragonfly Cars",
+        "name": "Øyenstikker-vogner",
         "reference-description": "Dragonfly-shaped cars which swing from the rail above",
-        "description": "Dragonfly-shaped cars which swing from the rail above",
+        "description": "Øyenstikker-formede vogner som svinger fra sporet over",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 passasjerer per vogn"
     },
     "rct2tt.ride.1920racr": {
         "reference-name": "1920s Racing Cars",
-        "name": "1920s Racing Cars",
+        "name": "1920-talls Racerbiler",
         "reference-description": "1920s race car themed go-karts",
-        "description": "1920s race car themed go-karts",
+        "description": "1920-talls racerbil-formede go-karts",
         "reference-capacity": "Single-seater",
-        "capacity": "Single-seater"
+        "capacity": "Enkeltseter"
     },
     "rct2tt.ride.trebucht": {
         "reference-name": "Trebuchet Ride",
-        "name": "Trebuchet Ride",
+        "name": "Katapult Attraksjon",
         "reference-description": "Passengers ride in a carriage suspended by two large arms, based on a Dark Age siege weapon",
-        "description": "Passengers ride in a carriage suspended by two large arms, based on a Dark Age siege weapon",
+        "description": "Passasjerer sitter i en bred vogn holdt oppe av to store armer, basert på et middelaldersk beleiringsvåpen",
         "reference-capacity": "8 passengers",
-        "capacity": "8 passengers"
+        "capacity": "8 passasjerer"
     },
     "rct2tt.ride.barnstrm": {
         "reference-name": "Barnstorming Trains",
-        "name": "Barnstorming Trains",
+        "name": "Stuntfly-tog",
         "reference-description": "Inverted roller coaster trains for the Inverted Impulse Coaster, in the shape of double decker aeroplanes",
-        "description": "Inverted roller coaster trains for the Inverted Impulse Coaster, in the shape of double decker aeroplanes",
+        "description": "Inverterte berg-og-dal-banetog for Invertert impulsbane, formet som dobbeldekker fly",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2tt.ride.microbus": {
         "reference-name": "MicroBus Ride",
-        "name": "MicroBus Ride",
+        "name": "Microbus Attraksjon",
         "reference-description": "Riders view a film inside the Flower Power-themed motion simulator pod while it is twisted and moved around by a hydraulic arm",
-        "description": "Riders view a film inside the Flower Power-themed motion simulator pod while it is twisted and moved around by a hydraulic arm",
+        "description": "Passasjerer ser på en film inne i en Flower Power-tematisert bevegelsessimulator-kapsel mens den blir beveget rundt av en hydraulisk arm",
         "reference-capacity": "8 passengers",
-        "capacity": "8 passengers"
+        "capacity": "8 passasjerer"
     },
     "rct2tt.ride.rivrstyx": {
         "reference-name": "River Styx boats",
-        "name": "River Styx boats",
+        "name": "Elven Styx-båter",
         "reference-description": "Boats with an Underworld theme, built for flat river tracks",
-        "description": "Boats with an Underworld theme, built for flat river tracks",
+        "description": "Båter med Underverdenen-tema, bygd for flate elvebaner",
         "reference-capacity": "4 passengers per raft",
-        "capacity": "4 passengers per raft"
+        "capacity": "4 passasjerer per båt"
     },
     "rct2tt.ride.raptorxx": {
         "reference-name": "Racing Raptors",
-        "name": "Racing Raptors",
+        "name": "Racing Raptorer",
         "reference-description": "Separate raptor-shaped vehicles",
-        "description": "Separate raptor-shaped vehicles",
+        "description": "Separate raptor-formede kjøretøy",
         "reference-capacity": "2 riders per vehicle",
-        "capacity": "2 riders per vehicle"
+        "capacity": "2 passasjerer per kjøretøy"
     },
     "rct2tt.ride.jetpackx": {
         "reference-name": "Jet Pack Booster",
         "name": "Jet Pack Booster",
         "reference-description": "Large jetpack-shaped coaster car for the Reverse Freefall Coaster",
-        "description": "Large jetpack-shaped coaster car for the Reverse Freefall Coaster",
+        "description": "Stor jetpack-formet berg-og-dalbane-vogn for Baklengs fritt fall-bane",
         "reference-capacity": "8 passengers per car",
-        "capacity": "8 passengers per car"
+        "capacity": "8 passasjerer per vogn"
     },
     "rct2tt.ride.oakbarel": {
         "reference-name": "Oak Barrels",
-        "name": "Oak Barrels",
+        "name": "Eiketønner",
         "reference-description": "Oak barrels that turn and splash around as they meander along the river rapids",
-        "description": "Oak barrels that turn and splash around as they meander along the river rapids",
+        "description": "Eiketønner som spinner og plasker rundt mens de snor seg langs langs elvestryket",
         "reference-capacity": "8 passengers per boat",
-        "capacity": "8 passengers per boat"
+        "capacity": "8 passasjerer per båt"
     },
     "rct2tt.ride.pterodac": {
         "reference-name": "Pterodactyl Trains",
@@ -551,93 +551,93 @@
     },
     "rct2tt.ride.1960tsrt": {
         "reference-name": "Flower Power T-Shirts",
-        "name": "Flower Power T-Shirts",
+        "name": "Flower Power T-Skjorter",
         "reference-description": "Stall selling T-shirts with a flower motif",
-        "description": "Stall selling T-shirts with a flower motif"
+        "description": "Bod som selger T-skjorter med blomstermønster"
     },
     "rct2tt.ride.zeplelin": {
         "reference-name": "Airship Themed Monorail Trains",
-        "name": "Airship Themed Monorail Trains",
+        "name": "Luftskipformede Monorailtog",
         "reference-description": "Large capacity themed monorail trains with streamlined front and rear cars",
-        "description": "Large capacity themed monorail trains with streamlined front and rear cars",
+        "description": "Romslige, tematiserte monorailtog med strømlinjede front og bakvogner",
         "reference-capacity": "8 passengers per car",
-        "capacity": "8 passengers per car"
+        "capacity": "8 passasjerer per vogn"
     },
     "rct2tt.ride.softoyst": {
         "reference-name": "Soft Toy Stall",
-        "name": "Soft Toy Stall",
+        "name": "Dinosaurbamse Bod",
         "reference-description": "A stall selling a cute soft toy dinosaur",
-        "description": "A stall selling a cute soft toy dinosaur"
+        "description": "En bod som selger en søt dinosaurbamse"
     },
     "rct2tt.ride.valkyrie": {
         "reference-name": "Valkyries Trains",
-        "name": "Valkyries Trains",
+        "name": "Valkyrietog",
         "reference-description": "Valkyries-themed roller coaster trains with extra-wide cars, built for vertical drops",
-        "description": "Valkyries-themed roller coaster trains with extra-wide cars, built for vertical drops",
+        "description": "Valkyrie-formede berg-og-dal-banetog med ekstra brede vogner, bygd for vertikale fall",
         "reference-capacity": "6 passengers per car",
-        "capacity": "6 passengers per car"
+        "capacity": "6 passasjerer per vogn"
     },
     "rct2tt.ride.bmvoctps": {
         "reference-name": "Blob from Outer Space",
-        "name": "Blob from Outer Space",
+        "name": "Klump fra Ytre Rom",
         "reference-description": "A themed rotating observation cabin shaped like a blob from a sci-fi B-film",
-        "description": "A themed rotating observation cabin shaped like a blob from a sci-fi B-film",
+        "description": "En roterende observasjonskabin formet som en klump fra en sci-fi B-film",
         "reference-capacity": "20 passengers",
-        "capacity": "20 passengers"
+        "capacity": "20 passasjerer"
     },
     "rct2tt.ride.figtknit": {
         "reference-name": "Fighting Knights Dodgems",
-        "name": "Fighting Knights Dodgems",
+        "name": "Krigende Riddere Radiobiler",
         "reference-description": "Riders joust on horse-themed dodgems",
-        "description": "Riders joust on horse-themed dodgems",
+        "description": "Ryttere går til dyst på hesteformede radiobiler",
         "reference-capacity": "1 person per car",
-        "capacity": "1 person per car"
+        "capacity": "1 person per bil"
     },
     "rct2tt.ride.tommygun": {
         "reference-name": "Tommy Gun Ride",
-        "name": "Tommy Gun Ride",
+        "name": "Tommy Gun Attraksjon",
         "reference-description": "Riders ride in pairs of themed seats which rotate around a large replica Tommy Gun",
-        "description": "Riders ride in pairs of themed seats which rotate around a large replica Tommy Gun",
+        "description": "Gjester sitter i par i tematiserte seter som roterer rundt en stor replika av en Tommy Gun",
         "reference-capacity": "18 passengers",
-        "capacity": "18 passengers"
+        "capacity": "18 passasjerer"
     },
     "rct2tt.ride.stamphrd": {
         "reference-name": "Stampeding Herd Trains",
-        "name": "Stampeding Herd Trains",
+        "name": "Flyktende Flokk-tog",
         "reference-description": "Roller coaster trains in which the riders ride in a standing position, themed to look like a stampeding dinosaur herd",
-        "description": "Roller coaster trains in which the riders ride in a standing position, themed to look like a stampeding dinosaur herd",
+        "description": "Berg-og-dal-banetog som passasjerer står oppreist, formet til å se ut som en flyktende dinosaurflokk",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2tt.ride.mktstal1": {
         "reference-name": "Toffee Apple Market Stall",
-        "name": "Toffee Apple Market Stall",
+        "name": "Glasert Eple Bod",
         "reference-description": "A themed stall selling sticky toffee apples",
-        "description": "A themed stall selling sticky toffee apples"
+        "description": "En tematisert bod som selger klissete glaserte epler"
     },
     "rct2tt.ride.pegasusx": {
         "reference-name": "Pegasus Cars",
-        "name": "Pegasus Cars",
+        "name": "Pegasus Vogner",
         "reference-description": "Powered vehicles in the shape of Pegasus drawing a cart",
-        "description": "Powered vehicles in the shape of Pegasus drawing a cart",
+        "description": "Motoriserte kjøretøy i form av Pegasus som trekker en vogn",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 passasjerer per vogn"
     },
     "rct2tt.ride.harpiesx": {
         "reference-name": "Harpies Trains",
-        "name": "Harpies Trains",
+        "name": "Harpy Tog",
         "reference-description": "Roller coaster trains in the shape of mythological bird-like creatures. Riders are held in special harnesses in a lying-down position, travelling either on their backs or facing the ground",
-        "description": "Roller coaster trains in the shape of mythological bird-like creatures. Riders are held in special harnesses in a lying-down position, travelling either on their backs or facing the ground",
+        "description": "Berg-og-dal-banetog formet som mytologiske fugleliknende skapninger. Gjester blir lagt ned i spesielle seler og farer av gårde på rygg eller på magen",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2tt.ride.jetplane": {
         "reference-name": "Jet Plane Cars",
-        "name": "Jet Plane Cars",
+        "name": "Jetfly Vogner",
         "reference-description": "Roller coaster cars in the shape of jet planes",
-        "description": "Roller coaster cars in the shape of jet planes",
+        "description": "Berg-og-dal-banetog formet som jetfly",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2tt.footpath_surface.pavement": {
         "reference-name": "Pavement",
@@ -3005,141 +3005,141 @@
         "reference-name": "Go-Karts",
         "name": "Go-Karts",
         "reference-description": "Self-drive petrol-engined go-karts",
-        "description": "Self-drive petrol-engined go-karts",
+        "description": "Selvstyrte bensindrevne go-karts",
         "reference-capacity": "single-seater",
-        "capacity": "single-seater"
+        "capacity": "enkeltseter"
     },
     "rct2.ride.smc2": {
         "reference-name": "Mine Cars",
-        "name": "Mine Cars",
+        "name": "Gruvebiler",
         "reference-description": "Individual cars shaped like wooden mine trucks",
-        "description": "Individual cars shaped like wooden mine trucks",
+        "description": "Individuelle vogner formet som gruvebiler av tre",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.premt1": {
         "reference-name": "LIM Launched Roller Coaster Trains",
-        "name": "LIM Launched Roller Coaster Trains",
+        "name": "LIM-berg-og-dal-banetog",
         "reference-description": "Roller coaster trains that are accelerated by linear induction motors",
-        "description": "Roller coaster trains that are accelerated by linear induction motors",
+        "description": "Berg-og-dal-banetog som blir aksellerert av lineære induksjonsmotorer",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.bmvd": {
         "reference-name": "Six-seater Twister Trains",
-        "name": "Six-seater Twister Trains",
+        "name": "Seks-seters Twister-tog",
         "reference-description": "Roller coaster trains with extra-wide cars, built for vertical drops",
-        "description": "Roller coaster trains with extra-wide cars, built for vertical drops",
+        "description": "Berg-og-dal-banetog med ekstra brede vogner, bygd for vertikale fall",
         "reference-capacity": "6 passengers per car",
-        "capacity": "6 passengers per car"
+        "capacity": "6 passasjerer per vogn"
     },
     "rct2.ride.mono3": {
         "reference-name": "Retro-style Monorail Trains",
-        "name": "Retro-style Monorail Trains",
+        "name": "Retro-stil Monorail-tog",
         "reference-description": "Monorail trains with open cabins",
-        "description": "Monorail trains with open cabins",
+        "description": "Monorail-tog med åpne kabiner",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.nrl": {
         "reference-name": "Steam Trains",
-        "name": "Steam Trains",
+        "name": "Damplokomotiv",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
-        "description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
+        "description": "Miniatyr-damplokomotiv bestående av en replika av et damplokomotiv og kullvogn, som trekker åpne vogner av tre",
         "reference-capacity": "6 passengers per carriage",
-        "capacity": "6 passengers per carriage"
+        "capacity": "6 passasjerer per vogn"
     },
     "rct2.ride.slct": {
         "reference-name": "Compact Inverted Coaster Trains",
-        "name": "Compact Inverted Coaster Trains",
+        "name": "Kompakt Invertert Berg-og-dal-bane-tog",
         "reference-description": "Riders sit in pairs of seats suspended beneath the track",
-        "description": "Riders sit in pairs of seats suspended beneath the track",
+        "description": "Passasjerer sitter i par, hengende under sporet",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 passasjerer per vogn"
     },
     "rct2.ride.hchoc": {
         "reference-name": "Hot Chocolate Stall",
-        "name": "Hot Chocolate Stall",
+        "name": "Kakaobod",
         "reference-description": "A stall selling hot chocolate drinks",
-        "description": "A stall selling hot chocolate drinks"
+        "description": "En bod som selger kakao"
     },
     "rct2.ride.swans": {
         "reference-name": "Swans",
-        "name": "Swans",
+        "name": "Svaner",
         "reference-description": "Swan-shaped boats, propelled by the pedalling front seat passengers",
-        "description": "Swan-shaped boats, propelled by the pedalling front seat passengers",
+        "description": "Svaneformede båter, drevet forover med pedaler av passasjerene i forsetet",
         "reference-capacity": "4 passengers per boat",
-        "capacity": "4 passengers per boat"
+        "capacity": "4 passasjerer per båt"
     },
     "rct2.ride.amt1": {
         "reference-name": "Mine Trains",
-        "name": "Mine Trains",
+        "name": "Gruvetog",
         "reference-description": "Mine train-themed roller coaster trains",
-        "description": "Mine train-themed roller coaster trains",
+        "description": "Gruvetog-tematiserte berg-og-dal-bane-tog",
         "reference-capacity": "2 or 4 passengers per car",
-        "capacity": "2 or 4 passengers per car"
+        "capacity": "2 eller 4 passasjerer per vogn"
     },
     "rct2.ride.wcatc": {
         "reference-name": "Automobile Cars",
-        "name": "Automobile Cars",
+        "name": "Bil-vogner",
         "reference-description": "Roller coaster cars in the shape of automobiles",
-        "description": "Roller coaster cars in the shape of automobiles",
+        "description": "Berg-og-dal-bane-vogner formet som biler",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.rcr": {
         "reference-name": "Racing Cars",
-        "name": "Racing Cars",
+        "name": "Racerbiler",
         "reference-description": "Powered vehicles in the shape of racing cars",
-        "description": "Powered vehicles in the shape of racing cars",
+        "description": "Motoriserte kjøretøy formet som racerbiler",
         "reference-capacity": "1 passenger per car",
-        "capacity": "1 passenger per car"
+        "capacity": "1 passasjer per bil"
     },
     "rct2.ride.spdrcr": {
         "reference-name": "Spiral Roller Coaster Trains",
-        "name": "Spiral Roller Coaster Trains",
+        "name": "Spiral berg-og-dal-bane-tog",
         "reference-description": "Compact roller coaster trains with cars with in-line seating",
-        "description": "Compact roller coaster trains with cars with in-line seating",
+        "description": "Kompakte berg-og-dal-bane-tog med vogner hvor gjester sitter på linje",
         "reference-capacity": "6 passengers per car",
-        "capacity": "6 passengers per car"
+        "capacity": "6 passasjerer per vogn"
     },
     "rct2.ride.tshrt": {
         "reference-name": "T-Shirt Stall",
-        "name": "T-Shirt Stall",
+        "name": "T-skjorte-bod",
         "reference-description": "A stall selling souvenir T-Shirts",
-        "description": "A stall selling souvenir T-Shirts"
+        "description": "En bod som selger suvenir-t-skjorter"
     },
     "rct2.ride.chknug": {
         "reference-name": "Chicken Nuggets Stall",
-        "name": "Chicken Nuggets Stall",
+        "name": "Kyllingnuggets-bod",
         "reference-description": "A stall selling fried chicken nuggets",
-        "description": "A stall selling fried chicken nuggets"
+        "description": "En bod som selger friterte kyllingnuggets"
     },
     "rct2.ride.vreel": {
         "reference-name": "Virginia Reel Tubs",
-        "name": "Virginia Reel Tubs",
+        "name": "Virginiaspinner-bøtter",
         "reference-description": "Circular cars that spin around as they travel along the track",
-        "description": "Circular cars that spin around as they travel along the track",
+        "description": "Runde vogner som spinner rundt mens de reiser langs sporet",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.hotds": {
         "reference-name": "Hot Dog Stall",
-        "name": "Hot Dog Stall",
+        "name": "Pølsebod",
         "reference-description": "A stall selling hot dogs in rolls",
-        "description": "A stall selling hot dogs in rolls"
+        "description": "En bod som selger pølser i brød"
     },
     "rct2.ride.cndyf": {
         "reference-name": "Candyfloss Stall",
-        "name": "Candyfloss Stall",
+        "name": "Sukkerspinn-bod",
         "reference-description": "A candyfloss shaped building selling pink candyfloss",
-        "description": "A candyfloss shaped building selling pink candyfloss"
+        "description": "En sukkerspinnformet bygning som selger sukkerspinn"
     },
     "rct2.ride.frnood": {
         "reference-name": "Fried Rice Noodles Stall",
-        "name": "Fried Rice Noodles Stall",
+        "name": "Risnuddel-bod",
         "reference-description": "A stall selling Chinese style fried rice noodles",
-        "description": "A stall selling Chinese style fried rice noodles"
+        "description": "En bod som selger stekte risnudler i kinesisk stil"
     },
     "rct2.ride.rftboat": {
         "reference-name": "Rafts",
@@ -3151,125 +3151,125 @@
     },
     "rct2.ride.vekst": {
         "reference-name": "Lay-down Roller Coaster Trains",
-        "name": "Lay-down Roller Coaster Trains",
+        "name": "Liggende berg-og-dal-banetog",
         "reference-description": "Riders are held in special harnesses in a lying-down position, travelling either on their backs or facing the ground",
-        "description": "Riders are held in special harnesses in a lying-down position, travelling either on their backs or facing the ground",
+        "description": "Gjester blir lagt ned i spesielle seler, og reiser enten på rygg eller på magen",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.skytr": {
         "reference-name": "Lay-down Cars",
-        "name": "Lay-down Cars",
+        "name": "Liggende Vogner",
         "reference-description": "Small suspended cars in which the passengers ride face-down in a lying position, swinging freely from side to side",
-        "description": "Small suspended cars in which the passengers ride face-down in a lying position, swinging freely from side to side",
+        "description": "Små hengende vogner hvor gjester ligger på magen mens de svinger fritt fra side til side",
         "reference-capacity": "1 passenger per car",
-        "capacity": "1 passenger per car"
+        "capacity": "1 passasjer per vogn"
     },
     "rct2.ride.popcs": {
         "reference-name": "Popcorn Stall",
-        "name": "Popcorn Stall",
+        "name": "Popcorn Bod",
         "reference-description": "A stall selling giant buckets of popcorn",
-        "description": "A stall selling giant buckets of popcorn"
+        "description": "En bod som selger store begere med popcorn"
     },
     "rct2.ride.burgb": {
         "reference-name": "Burger Bar",
         "name": "Burger Bar",
         "reference-description": "A burger-shaped building selling burgers",
-        "description": "A burger-shaped building selling burgers"
+        "description": "En burgerformet bygning som selger burgere"
     },
     "rct2.ride.mono2": {
         "reference-name": "Small Monorail Cars",
-        "name": "Small Monorail Cars",
+        "name": "Små Monorailvogner",
         "reference-description": "Small monorail cars with open sides",
-        "description": "Small monorail cars with open sides",
+        "description": "Små monorailvogner med åpne sider",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.bmsd": {
         "reference-name": "Twister Trains",
-        "name": "Twister Trains",
+        "name": "Twistertog",
         "reference-description": "Spacious trains with shoulder restraints",
-        "description": "Spacious trains with shoulder restraints",
+        "description": "Romslige tog med skuldersikringer",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.cstboat": {
         "reference-name": "Coaster Boats",
-        "name": "Coaster Boats",
+        "name": "Berg-og-dal-banebåter",
         "reference-description": "Boat-shaped roller coaster cars",
-        "description": "Boat-shaped roller coaster cars",
+        "description": "Båtformede berg-og-dal-banevogner",
         "reference-capacity": "6 passengers per boat",
-        "capacity": "6 passengers per boat"
+        "capacity": "6 passasjerer per båt"
     },
     "rct2.ride.bmair": {
         "reference-name": "Flying Roller Coaster Trains",
-        "name": "Flying Roller Coaster Trains",
+        "name": "Flyvende Berg-og-dal-banetog",
         "reference-description": "Riders are held in comfortable seats below the track to give the ultimate flying experience",
-        "description": "Riders are held in comfortable seats below the track to give the ultimate flying experience",
+        "description": "Gjester blir festet i komfortable seter under sporet og får den ultimate opplevelsen av å fly",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.spcar": {
         "reference-name": "Sports Cars",
-        "name": "Sports Cars",
+        "name": "Sportsbiler",
         "reference-description": "Powered vehicles in the shape of sports cars",
-        "description": "Powered vehicles in the shape of sports cars",
+        "description": "Motoriserte kjøretøy formet som sportsbiler",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 passasjerer per bil"
     },
     "rct2.ride.icetst": {
         "reference-name": "Iced Tea Stall",
-        "name": "Iced Tea Stall",
+        "name": "Is-te Bod",
         "reference-description": "A stall selling iced tea drinks",
-        "description": "A stall selling iced tea drinks"
+        "description": "En bod som selger is-te"
     },
     "rct2.ride.icecr2": {
         "reference-name": "Ice Cream Cone Stall",
-        "name": "Ice Cream Cone Stall",
+        "name": "Iskrem Bod",
         "reference-description": "A stall selling ice cream cones",
-        "description": "A stall selling ice cream cones"
+        "description": "En bod som selger iskrem"
     },
     "rct2.ride.arrsw2": {
         "reference-name": "Suspended Swinging Aeroplane Cars",
-        "name": "Suspended Swinging Aeroplane Cars",
+        "name": "Hengende, Svingende Fly-vogner",
         "reference-description": "Suspended roller coaster trains consisting of aeroplane-shaped cars able to swing freely as the train goes around corners",
-        "description": "Suspended roller coaster trains consisting of aeroplane-shaped cars able to swing freely as the train goes around corners",
+        "description": "Hengende berg-og-dal-banetog som består av flyformede vogner i stand til å svinge fritt mens toget reiser gjennom svinger",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.submar": {
         "reference-name": "Submarines",
-        "name": "Submarines",
+        "name": "Ubåter",
         "reference-description": "Riders ride in a submerged submarine through an underwater course",
-        "description": "Riders ride in a submerged submarine through an underwater course",
+        "description": "Gjester reiser i en ubåt gjennom en undervannsbane",
         "reference-capacity": "5 passengers per submarine",
-        "capacity": "5 passengers per submarine"
+        "capacity": "5 passasjerer per ubåt"
     },
     "rct2.ride.funcake": {
         "reference-name": "Funnel Cake Shop",
-        "name": "Funnel Cake Shop",
+        "name": "Traktkake Bod",
         "reference-description": "A stall selling funnel cakes",
-        "description": "A stall selling funnel cakes"
+        "description": "En bod som selger traktkaker"
     },
     "rct2.ride.obs2": {
         "reference-name": "Double-deck Cabin",
-        "name": "Double-deck Cabin",
+        "name": "Dobbeldekker Kabin",
         "reference-description": "Twin-deck rotating observation cabin",
-        "description": "Twin-deck rotating observation cabin",
+        "description": "Toetasjes roterende observasjonskabin",
         "reference-capacity": "32 passengers",
-        "capacity": "32 passengers"
+        "capacity": "32 passasjerer"
     },
     "rct2.ride.cookst": {
         "reference-name": "Cookie Shop",
-        "name": "Cookie Shop",
+        "name": "Kjeksbutikk",
         "reference-description": "A stall selling giant cookies",
-        "description": "A stall selling giant cookies"
+        "description": "En bod som selger enorme kjeks"
     },
     "rct2.ride.arrsw1": {
         "reference-name": "Suspended Swinging Cars",
-        "name": "Suspended Swinging Cars",
+        "name": "Hengende, Svingende Vogner",
         "reference-description": "Suspended roller coaster trains consisting of cars able to swing freely as the train goes around corners",
-        "description": "Suspended roller coaster trains consisting of cars able to swing freely as the train goes around corners",
+        "description": "Hengende berg-og-dal-banetog som består av vogner i stand til å svinge fritt mens toget reiser gjennom svinger",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 passengers per car"
     },
@@ -3277,329 +3277,329 @@
         "reference-name": "Magic Carpet",
         "name": "Flyvende teppe",
         "reference-description": "A large flying-carpet themed car which moves up and down cyclically on the ends of 4 arms",
-        "description": "A large flying-carpet themed car which moves up and down cyclically on the ends of 4 arms",
+        "description": "En stort flyvende teppe-formet vogn som beveger seg opp og ned i sirkler på enden av 4 armer",
         "reference-capacity": "12 passengers",
-        "capacity": "12 passengers"
+        "capacity": "12 passasjerer"
     },
     "rct2.ride.bmsu": {
         "reference-name": "Stand-up Twister Trains",
-        "name": "Stand-up Twister Trains",
+        "name": "Stående Twister-tog",
         "reference-description": "A train with shoulder restraints, in which the riders stand up",
-        "description": "A train with shoulder restraints, in which the riders stand up",
+        "description": "Et tog med skuldersikringer, hvor gjester står oppreist",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.revcar": {
         "reference-name": "Reverser Cars",
-        "name": "Reverser Cars",
+        "name": "Reverserende Vogner",
         "reference-description": "Bogied cars capable of turning around on special reversing sections",
-        "description": "Bogied cars capable of turning around on special reversing sections",
+        "description": "Vogner som er i stand til å bli snudd rundt på spesielle reverserende seksjoner",
         "reference-capacity": "6 passengers per car",
-        "capacity": "6 passengers per car"
+        "capacity": "6 passasjerer per vogn"
     },
     "rct2.ride.swsh1": {
         "reference-name": "Pirate Ship",
         "name": "Piratskip",
         "reference-description": "Large swinging pirate ship",
-        "description": "Large swinging pirate ship",
+        "description": "Stort svingende piratskip",
         "reference-capacity": "16 passengers",
-        "capacity": "16 passengers"
+        "capacity": "16 passasjerer"
     },
     "rct2.ride.aml1": {
         "reference-name": "American Style Steam Trains",
-        "name": "American Style Steam Trains",
+        "name": "Amerikansk Stil Damplokomotiv",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
-        "description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
+        "description": "Miniatyr-damplokomotiv som består av en replika av et damplokomotiv, kullvogn og trekker vogner av tre med tak av tøy",
         "reference-capacity": "6 passengers per carriage",
-        "capacity": "6 passengers per carriage"
+        "capacity": "6 passasjerer per vogn"
     },
     "rct2.ride.monbk": {
         "reference-name": "Bicycles",
-        "name": "Bicycles",
+        "name": "Sykler",
         "reference-description": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
-        "description": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
+        "description": "Spesielle sykler som kjører på ensporete baner, drevet av pedaler",
         "reference-capacity": "1 rider per bicycle",
-        "capacity": "1 rider per bicycle"
+        "capacity": "1 gjest per sykkel"
     },
     "rct2.ride.ivmc1": {
         "reference-name": "Four-seater Cars",
-        "name": "Four-seater Cars",
+        "name": "Fireseters Biler",
         "reference-description": "Individual roller coaster cars built for tracks with hairpin turns and sharp drops",
-        "description": "Individual roller coaster cars built for tracks with hairpin turns and sharp drops",
+        "description": "Individuelle berg-og-dal-banevogner bygd for baner med skarpe svinger og bratte fall",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.hskelt": {
         "reference-name": "Spiral Slide",
         "name": "Spiralsklietårn",
         "reference-description": "Wooden building with an internal staircase and an external spiral slide for use with slide mats",
-        "description": "Wooden building with an internal staircase and an external spiral slide for use with slide mats",
+        "description": "Trebygning med en indre trapp og en utvendig spirasklie som brukes med sklimatter",
         "reference-capacity": "1 person at a time",
-        "capacity": "1 person at a time"
+        "capacity": "1 person om gangen"
     },
     "rct2.ride.utcar": {
         "reference-name": "Twister Cars",
-        "name": "Twister Cars",
+        "name": "Twister-vogner",
         "reference-description": "Roller coaster cars capable of heartline twists",
-        "description": "Roller coaster cars capable of heartline twists",
+        "description": "Berg-og-dal-banevogner i stand til hjertelinje-vridninger",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.chpsh2": {
         "reference-name": "Chips Stall",
-        "name": "Chips Stall",
+        "name": "Pommes Frites Bod",
         "reference-description": "A stall selling chips",
-        "description": "A stall selling chips"
+        "description": "En bod som selger pommes frites"
     },
     "rct2.ride.srings": {
         "reference-name": "Space Rings",
         "name": "Romringer",
         "reference-description": "Concentric pivoting rings allowing the riders free rotation in all directions",
-        "description": "Concentric pivoting rings allowing the riders free rotation in all directions",
+        "description": "Konsentrisk roterende ringer som tillater gjester fri rotasjon i alle retninger",
         "reference-capacity": "1 guest per ring",
-        "capacity": "1 guest per ring"
+        "capacity": "1 gjest per ring"
     },
     "rct2.ride.hatst": {
         "reference-name": "Hat Stall",
-        "name": "Hat Stall",
+        "name": "Hatt Bod",
         "reference-description": "A souvenir stall selling large foam hats",
-        "description": "A souvenir stall selling large foam hats"
+        "description": "*En suvenirbod som selger store hatter av skumgummi"
     },
     "rct2.ride.spboat": {
         "reference-name": "Splash Boats",
         "name": "Splashbåter",
         "reference-description": "Large capacity boats, built for water tracks with very steep drops",
-        "description": "Large capacity boats, built for water tracks with very steep drops",
+        "description": "Båter med stor kapasitet, bygd for vannbaner med veldig bratte fall",
         "reference-capacity": "16 passengers per boat",
-        "capacity": "16 passengers per boat"
+        "capacity": "16 passasjerer per båt"
     },
     "rct2.ride.tram1": {
         "reference-name": "Trams",
-        "name": "Trams",
+        "name": "Trikker",
         "reference-description": "Old-timer replica trams",
-        "description": "Old-timer replica trams",
+        "description": "Gammeldagse replika-trikker",
         "reference-capacity": "10 passengers per car",
-        "capacity": "10 passengers per car"
+        "capacity": "10 passasjerer per vogn"
     },
     "rct2.ride.trike": {
         "reference-name": "Water Tricycles",
-        "name": "Water Tricycles",
+        "name": "Trehjulsykkel-båt",
         "reference-description": "Pedal-tricycle with large buoyant wheels",
-        "description": "Pedal-tricycle with large buoyant wheels",
+        "description": "trehjulsykkel pedalbåt med store flytende hjul",
         "reference-capacity": "2 passengers per tricycle",
-        "capacity": "2 passengers per tricycle"
+        "capacity": "2 passasjerer per trehjulsykkel"
     },
     "rct2.ride.tlt2": {
         "reference-name": "Toilets",
         "name": "Toaletter",
         "reference-description": "Toilets housed in a log cabin style building",
-        "description": "Toilets housed in a log cabin style building"
+        "description": "Toaletter i en bygning med tømmerhytte-stil"
     },
     "rct2.ride.cboat": {
         "reference-name": "Canoes",
-        "name": "Canoes",
+        "name": "Kanoer",
         "reference-description": "Long canoes which the passengers paddle themselves",
-        "description": "Long canoes which the passengers paddle themselves",
+        "description": "Lange kanoer som passasjerene padler i på egen hånd",
         "reference-capacity": "2 passengers per canoe",
-        "capacity": "2 passengers per canoe"
+        "capacity": "2 passasjerer per kano"
     },
     "rct2.ride.pizzs": {
         "reference-name": "Pizza Stall",
-        "name": "Pizza Stall",
+        "name": "Pizza Bod",
         "reference-description": "A stall selling portions of pizza",
-        "description": "A stall selling portions of pizza"
+        "description": "En bod som selger pizzastykker"
     },
     "rct2.ride.intinv": {
         "reference-name": "Impulse Trains",
-        "name": "Impulse Trains",
+        "name": "Impuls Tog",
         "reference-description": "Inverted roller coaster trains for the Inverted Impulse Coaster",
-        "description": "Inverted roller coaster trains for the Inverted Impulse Coaster",
+        "description": "Invertert berg-og-dal-banetog for Invertert Impulsbane",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.substl": {
         "reference-name": "Sub Sandwich Stall",
-        "name": "Sub Sandwich Stall",
+        "name": "Smørbrød Bod",
         "reference-description": "A stall selling fresh sub sandwiches",
-        "description": "A stall selling fresh sub sandwiches"
+        "description": "En bod som selger ferske smørbrød"
     },
     "rct2.ride.ptct2r": {
         "reference-name": "Wooden Roller Coaster Trains (6 seater, Reversed)",
-        "name": "Wooden Roller Coaster Trains (6 seater, Reversed)",
+        "name": "Tre-berg-og-dal-banetog (6 seters, Bakvendt)",
         "reference-description": "Wooden roller coaster trains with padded seats and lap bar restraints, running with the seats facing backwards",
-        "description": "Wooden roller coaster trains with padded seats and lap bar restraints, running with the seats facing backwards",
+        "description": "Tre-berg-og-dal-banetog med polstrede seter og sikringer over fanget, kjører med setene vendt bakover",
         "reference-capacity": "6 passengers per car",
-        "capacity": "6 passengers per car"
+        "capacity": "6 passasjerer per vogn"
     },
     "rct2.ride.jstar1": {
         "reference-name": "Toboggan Cars",
-        "name": "Toboggan Cars",
+        "name": "Bob Vogner",
         "reference-description": "Toboggan-shaped roller coaster cars with in-line seating",
-        "description": "Toboggan-shaped roller coaster cars with in-line seating",
+        "description": "Bob-formede berg-og-dal-banevogner med seter i kolonne",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.gdrop1": {
         "reference-name": "Roto-Drop",
         "name": "Rotofall",
         "reference-description": "A ring of seats is pulled to the top of a tall tower while gently rotating, then allowed to free-fall down, stopping gently at the bottom using magnetic brakes",
-        "description": "A ring of seats is pulled to the top of a tall tower while gently rotating, then allowed to free-fall down, stopping gently at the bottom using magnetic brakes",
+        "description": "En ring av seter blir heist opp til toppen av et høyt tårn mens den roterer langsomt, deretter blir sluppet ned i fritt fall og stopper mykt på bunnen med magnetiske bremser",
         "reference-capacity": "16 passengers",
-        "capacity": "16 passengers"
+        "capacity": "16 passasjerer"
     },
     "rct2.ride.slcfo": {
         "reference-name": "Face-off Cars",
-        "name": "Face-off Cars",
+        "name": "Toveis Vogner",
         "reference-description": "Riders sit in pairs facing either forwards or backwards as they loop and twist through tight inversions",
-        "description": "Riders sit in pairs facing either forwards or backwards as they loop and twist through tight inversions",
+        "description": "Passasjerer sitter i par, vendt forover eller bakover mens de reiser gjennom krappe inversjoner",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.chpsh": {
         "reference-name": "Chip Shop",
-        "name": "Chip Shop",
+        "name": "Pommes Frites Butikk",
         "reference-description": "A hut selling chips",
-        "description": "A hut selling chips"
+        "description": "En butikk som selger pommes frites"
     },
     "rct2.ride.gtc": {
         "reference-name": "Ghost Train Cars",
-        "name": "Ghost Train Cars",
+        "name": "Spøkelsestog-vogner",
         "reference-description": "Powered monster-shaped cars that run on a ghost train track",
-        "description": "Powered monster-shaped cars that run on a ghost train track",
+        "description": "Motoriserte monster-formede vogner som kjører på spøkelsestogbane",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 passasjerer per vogn"
     },
     "rct2.ride.vcr": {
         "reference-name": "Vintage Cars",
-        "name": "Vintage Cars",
+        "name": "Gammeldagse Biler",
         "reference-description": "Powered vehicles in the shape of vintage cars",
-        "description": "Powered vehicles in the shape of vintage cars",
+        "description": "Motoriserte kjøretøy i form av gammeldagse biler",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 passasjerer per bil"
     },
     "rct2.ride.nrl2": {
         "reference-name": "Steam Trains with Covered Cars",
-        "name": "Steam Trains with Covered Cars",
+        "name": "Damplokomotiv med Tildekte Vogner",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
-        "description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
+        "description": "Miniatyr-damplokomotiv som består av en replika av et damplokomotiv, kullvogn og trekker vogner av tre med tak av tøy",
         "reference-capacity": "6 passengers per carriage",
-        "capacity": "6 passengers per carriage"
+        "capacity": "6 passasjerer per vogn"
     },
     "rct2.ride.cindr": {
         "reference-name": "Sujeonggwa Stall",
-        "name": "Sujeonggwa Stall",
+        "name": "Sujongkwa Bod",
         "reference-description": "A stall selling Korean style Sujeonggwa drinks",
-        "description": "A stall selling Korean style Sujeonggwa drinks"
+        "description": "En bod som selger Koreansk stil Sujongkwa-drikke"
     },
     "rct2.ride.jski": {
         "reference-name": "Jet Skis",
-        "name": "Jet Skis",
+        "name": "Vannscootere",
         "reference-description": "Single-seater jet skis which riders can drive themselves",
-        "description": "Single-seater jet skis which riders can drive themselves",
+        "description": "Enkeltseters vannscooter som gjester kan kjøre på egenhånd",
         "reference-capacity": "1 rider per vehicle",
-        "capacity": "1 rider per vehicle"
+        "capacity": "1 gjest per kjøretøy"
     },
     "rct2.ride.dough": {
         "reference-name": "Doughnut Shop",
-        "name": "Doughnut Shop",
+        "name": "Smultring Butikk",
         "reference-description": "A stall selling ring-shaped doughnuts",
-        "description": "A stall selling ring-shaped doughnuts"
+        "description": "En bod som selger smultringer"
     },
     "rct2.ride.sungst": {
         "reference-name": "Sunglasses Stall",
-        "name": "Sunglasses Stall",
+        "name": "Solbrille Bod",
         "reference-description": "A stall selling all kinds of sunglasses",
-        "description": "A stall selling all kinds of sunglasses"
+        "description": "En bod som selger all slags solbriller"
     },
     "rct2.ride.lemst": {
         "reference-name": "Lemonade Stall",
-        "name": "Lemonade Stall",
+        "name": "Lemonade Bod",
         "reference-description": "A stall selling refreshing lemonade drinks",
-        "description": "A stall selling refreshing lemonade drinks"
+        "description": "En bod som selger forfriskende lemonade"
     },
     "rct2.ride.simpod": {
         "reference-name": "Motion Simulator",
         "name": "Bevegelsessimulator",
         "reference-description": "Riders view a film inside the motion simulator pod while it is twisted and moved around by a hydraulic arm",
-        "description": "Riders view a film inside the motion simulator pod while it is twisted and moved around by a hydraulic arm",
+        "description": "Passasjerer ser på en film inne i en bevegelsessimulator-kapsel mens den blir beveget rundt av en hydraulisk arm",
         "reference-capacity": "8 passengers",
-        "capacity": "8 passengers"
+        "capacity": "8 passasjerer"
     },
     "rct2.ride.infok": {
         "reference-name": "Information Kiosk",
         "name": "Informasjonskiosk",
         "reference-description": "A stall where guests can obtain park maps and purchase umbrellas",
-        "description": "A stall where guests can obtain park maps and purchase umbrellas"
+        "description": "En bod hvor gjester kan skaffe seg parkkart og kjøpe paraplyer"
     },
     "rct2.ride.wonton": {
         "reference-name": "Wonton Soup Stall",
-        "name": "Wonton Soup Stall",
+        "name": "Wonton-suppe Bod",
         "reference-description": "A stall selling Wonton Soup",
-        "description": "A stall selling Wonton Soup"
+        "description": "En bod som selger Wonton-suppe"
     },
     "rct2.ride.wmouse": {
         "reference-name": "Mouse Cars",
-        "name": "Mouse Cars",
+        "name": "Musevogner",
         "reference-description": "Individual cars shaped like a mouse",
-        "description": "Individual cars shaped like a mouse",
+        "description": "Individuelle vogner formet som mus",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 passasjerer per vogn"
     },
     "rct2.ride.goltr": {
         "reference-name": "Hyper-Twister Trains",
-        "name": "Hyper-Twister Trains",
+        "name": "Hyper berg-og-dal-banevogner",
         "reference-description": "Spacious trains with simple lap restraints",
-        "description": "Spacious trains with simple lap restraints",
+        "description": "Romslige tog med enkle sikringer over fanget",
         "reference-capacity": "6 passengers per car",
-        "capacity": "6 passengers per car"
+        "capacity": "6 passasjerer per vogn"
     },
     "rct2.ride.twist2": {
         "reference-name": "Snow Cups",
-        "name": "Snow Cups",
+        "name": "Snøkopper",
         "reference-description": "Riders ride in pairs of seats rotating around a central snowman",
-        "description": "Riders ride in pairs of seats rotating around a central snowman",
+        "description": "Gjester sitter i par mens de roterer rundt en snømann",
         "reference-capacity": "18 passengers",
-        "capacity": "18 passengers"
+        "capacity": "18 passasjerer"
     },
     "rct2.ride.pmt1": {
         "reference-name": "Powered Mine Trains",
-        "name": "Powered Mine Trains",
+        "name": "Motoriserte Gruvetog",
         "reference-description": "Mine train-themed roller coaster trains that propel themselves",
-        "description": "Mine train-themed roller coaster trains that propel themselves",
+        "description": "Gruvetog-tematisert berg-og-dal-banevogner drevet av en motor",
         "reference-capacity": "2 or 4 passengers per car",
-        "capacity": "2 or 4 passengers per car"
+        "capacity": "2 or 4 passasjerer per vogn"
     },
     "rct2.ride.mft": {
         "reference-name": "Articulated Roller Coaster Trains",
-        "name": "Articulated Roller Coaster Trains",
+        "name": "Leddet Berg-og-dal-banetog",
         "reference-description": "Roller coaster trains with short single-row cars and open fronts",
-        "description": "Roller coaster trains with short single-row cars and open fronts",
+        "description": "Berg-og-dal-banetog med korte enkeltrad vogner og åpen front",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 passengers per car"
     },
     "rct2.ride.bob1": {
         "reference-name": "Bobsleigh Trains",
-        "name": "Bobsleigh Trains",
+        "name": "Bobslede Tog",
         "reference-description": "Trains consisting of 2-seater cars where the riders are behind each other",
-        "description": "Trains consisting of 2-seater cars where the riders are behind each other",
+        "description": "Tog bestående av toseters vogner hvor gjester sitter bak hverandre",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 passasjerer per vogn"
     },
     "rct2.ride.chbuild": {
         "reference-name": "Crooked House",
         "name": "Skjevt hus",
         "reference-description": "Building containing warped rooms and angled corridors to disorientate people walking through it",
-        "description": "Building containing warped rooms and angled corridors to disorientate people walking through it",
+        "description": "Bygning med forvridde rom og vinklede korridorer for å desorientere folk som vandrer gjennom det",
         "reference-capacity": "5 guests",
-        "capacity": "5 guests"
+        "capacity": "5 gjester"
     },
     "rct2.ride.ptct1": {
         "reference-name": "Wooden Roller Coaster Trains",
-        "name": "Wooden Roller Coaster Trains",
+        "name": "Treberg-og-dal-banetog",
         "reference-description": "Wooden roller coaster trains with padded seats and lap bar restraints",
-        "description": "Wooden roller coaster trains with padded seats and lap bar restraints",
+        "description": "Treberg-og-dal-banetog med polstrede seter og sikringer over fanger",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passasjerer per vogn"
     },
     "rct2.ride.pretst": {
         "reference-name": "Pretzel Stall",
@@ -6964,8 +6964,8 @@
         "name": "Mandarin Duck Boats",
         "reference-description": "Duck-shaped boats, propelled by the pedalling front seat passengers",
         "description": "Duck-shaped boats, propelled by the pedalling front seat passengers",
-        "reference-capacity": "2 passengers per boat",
-        "capacity": "2 passengers per boat"
+        "reference-capacity": "4 passengers per boat",
+        "capacity": "4 passengers per boat"
     },
     "rct2ww.ride.crocflum": {
         "reference-name": "Crocodile Boats",
