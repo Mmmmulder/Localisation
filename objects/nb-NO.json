@@ -6964,8 +6964,8 @@
         "name": "Mandarin Duck Boats",
         "reference-description": "Duck-shaped boats, propelled by the pedalling front seat passengers",
         "description": "Duck-shaped boats, propelled by the pedalling front seat passengers",
-        "reference-capacity": "4 passengers per boat",
-        "capacity": "4 passengers per boat"
+        "reference-capacity": "2 passengers per boat",
+        "capacity": "2 passengers per boat"
     },
     "rct2ww.ride.crocflum": {
         "reference-name": "Crocodile Boats",
